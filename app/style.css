@@ -49,3 +49,9 @@ span {
 .header {
   padding: 30px;
 }
+
+.bodytext {
+  text-align: justify;
+  text-align-last: center;
+  margin: 50px 100px 50px 100px;
+}
